@@ -262,19 +262,19 @@ li{
         height: 93rem;
     }
     .first-box{
-        left: 3rem;
+        left: 5rem;
     }
     .second-box{
         margin-top: 20rem;
-        left: 3rem;
+        left: 5rem;
     }
     .third-box{
         margin-top: 39rem;
-        left: 3rem;
+        left: 5rem;
     }
     .fourth-box{
         margin-top: 58rem;
-        left: 3rem;
+        left: 5rem;
     }
     .third{
         height:100rem;
@@ -288,40 +288,40 @@ li{
         margin-left:80px;
     }
     #image1{
-        margin-top: 35rem;
+        margin-top: 36rem;
         left: 3rem;
     }
     .one{
         margin-top: 22rem;
-        left:3rem;
+        left:1.5rem;
     }
     .two{
         margin-top: 32rem;
-        left:3rem;
+        left:1.5rem;
     }
     .three{
         margin-top: 42rem;
-        left: 3rem;
+        left: 1.5rem;
     }
     #footer-button{
-        margin-left: 10rem;
+        margin-left: 9rem;
         margin-top: 2rem;
         font-size: 18px;
     }
     #footer{
-        padding-left: 5rem;
+        padding-left: 3rem;
     }
     #footer-desc{
         width: 20rem;
-        margin-left: 5rem;
+        margin-left: 3rem;
     }
     .fourth{
-        height: 60rem;
+        height: 57rem;
     }
     .footer-nav{
         display: none;
     }
     .madeby{
-    left: 6rem;
+    left: 7rem;
     }
 }
